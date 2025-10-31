@@ -171,8 +171,7 @@ Aplikasi menggunakan skema warna yang renyah dan menarik untuk tema cemilan:
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/hilmanmaulana1237/UTS_HilmanMaulana_PAM.git
-   cd PraktikumWireframe
+   git clone https://github.com/Naisilazia04/PraktikumWireframe/edit/main/README.md
    ```
 
 2. **Buka di Android Studio**
@@ -285,9 +284,9 @@ dependencies {
 
 ## 👨‍💻 Pengembang
 
-- **Nama**: Hilman Maulana
-- **Repository**: UTS_HilmanMaulana_PAM
-- **GitHub**: hilmanmaulana1237
+- **Nama**: Naisila zia ulhaq
+- **Repository**: UTS_Naisila zia ulhaq_PAM
+- **GitHub**: Naisilazia04
 - **Mata Kuliah**: Pemrograman Aplikasi Mobile
 
 ## 📄 Status Build
